@@ -1,0 +1,27 @@
+#set align(center)
+
+#table(
+  columns: (auto, auto, auto, auto),
+  inset: 10pt,
+  align: horizon,
+  [*Name*], [*FOSS*], [*License*], [*Linux Support*],
+  [*Brave Browser*], [Yes], [MPL-2.0], [Excellent],
+  [*Ventoy*], [Yes], [GPLv3], [Excellent],
+  [*Discord*], [No], [Proprietary], [Good],
+  [*Vesktop*], [Yes], [GPLv3], [Excellent],
+  [*VSCode*], [Source- Yes \ Binary- No], [Source - MIT license \ Binary- Proprietary], [Excellent],
+  [*typst*], [Yes], [Apache-2.0], [Excellent],
+  [*mpv*], [Yes], [GPLv2+], [Excellent],
+  [*Haruna*], [Yes], [GPLv3+], [Excellent],
+  [*KeePassXC*], [Yes], [GPLv2+/GPLv3+], [Excellent],
+  [*qBittorrent*], [Yes], [Source - GPLv2+ \ Binary- GPLv3+], [Excellent],
+  [*FFmpeg*], [Yes], [GPLv2+/LGPLv2.1+], [Excellent],
+  [*Kitty Terminal*], [Yes], [GPLv3], [Linux Only],
+  [*Syncthing*], [Yes], [MPL-2.0], [Excellent],
+  [*Rescuezilla*], [Yes], [GPLv3], [Live CD],
+  [*Strawberry Music Player*], [Yes], [GPLv3], [Excellent],
+  [*Cryptomator*], [Yes], [GPLv3], [Excellent],
+  [*GPU Screen Recorder*], [Yes], [GPLv3], [Excellent],
+  [*Kleopatra*], [Yes], [GPLv2+], [Excellent],
+  [*LocalSend*], [Yes], [Apache-2.0], [Excellent],
+)
