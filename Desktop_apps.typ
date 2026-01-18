@@ -6,6 +6,7 @@
   align: horizon,
   [*Name*], [*FOSS*], [*License*], [*Linux Support*],
   [*Brave Browser*], [Yes], [MPL-2.0], [Excellent],
+  [*Windscribe VPN*], [Yes], [GPLv2], [Excellent],
   [*Ventoy*], [Yes], [GPLv3], [Excellent],
   [*Discord*], [No], [Proprietary], [Good],
   [*Vesktop*], [Yes], [GPLv3], [Excellent],
