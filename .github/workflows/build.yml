@@ -16,6 +16,7 @@ jobs:
         with:
           source_file: |
             Desktop_apps.typ
+            Mobile_apps.typ
 
       - name: Upload PDF file
         uses: actions/upload-artifact@v4
@@ -23,6 +24,7 @@ jobs:
           name: PDF
           path: |
             Desktop_apps.pdf
+            Mobile_apps.pdf
       - name: Get current date
         id: date
         run: echo "DATE=$(date +%Y-%m-%d-%H:%M)" >> $GITHUB_ENV
