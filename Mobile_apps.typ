@@ -16,4 +16,6 @@
   [*Cryptomator*], [Yes], [GPLv3],  
   [*OpenKeychain*], [Yes], [GPLv3],  
   [*LocalSend*], [Yes], [Apache-2.0],  
+  [*Breezy Weather*], [Yes], [LGPLv3], 
+  
 )
