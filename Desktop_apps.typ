@@ -7,6 +7,7 @@
   [*Name*], [*FOSS*], [*License*], [*Linux*], [*Windows*],
   [*Brave Browser*], [Yes], [MPL-2.0], [Yes], [Yes],
   [*Ventoy*], [Yes], [GPLv3], [Yes], [Yes],
+  [*nomacs*], [Yes], [GPLv3], [], [Yes],
   [*Discord*], [No], [Proprietary], [Yes], [Yes],
   [*VSCode*], [Source- Yes \ Binary- No], [Source - MIT license \ Binary- Proprietary], [Yes], [Yes],
   [*typst*], [Yes], [Apache-2.0], [Yes],[],
